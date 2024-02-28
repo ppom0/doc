@@ -31,9 +31,9 @@ Voici des sites qui proposent un service de DynDNS gratuitement :
 * [DNSexit](https://www.dnsexit.com/Direct.sv?cmd=dynDns)
 * [No-IP](https://www.noip.com/remote-access)
 * [ChangeIP](https://changeip.com)
-* [DynDNS (en italien)](https://dyndns.it)
+* [DynDNS (en italien, payant)](https://dyndns.it)
 * [Duck DNS](https://www.duckdns.org/)
-* [ydns.io (en anglais, gratuit)](https://ydns.io/)
+* [ydns.io (en anglais)](https://ydns.io/)
 
 Créer un compte chez l’un d’eux.
 
